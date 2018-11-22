@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hirichardhai/twitcher/issues"
   },
-  "homepage": "https://github.com/hirichardhai/twitcher#readme"
+  "homepage": "https://github.com/hirichardhai/twitcher#readme",
+  "devDependencies": {
+    "webpack": "^4.26.0"
+  }
 }
