@@ -1,0 +1,19 @@
+{
+  "name": "twitcher",
+  "version": "1.0.0",
+  "description": "A web app to upload and manage multimedia files stored through AWS S3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirichardhai/twitcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirichardhai/twitcher/issues"
+  },
+  "homepage": "https://github.com/hirichardhai/twitcher#readme"
+}
