@@ -5,7 +5,7 @@ class FormContainer extends Component {
   constructor() {
     super();
     this.state = {
-      seo_title: ""
+
     };
     this.handleChange = this.handleChange.bind(this);
   }
@@ -15,7 +15,6 @@ class FormContainer extends Component {
   }
 
   render() {
-    const { seo_title } = this.state;
     return (
       <div>
         formContainer component
