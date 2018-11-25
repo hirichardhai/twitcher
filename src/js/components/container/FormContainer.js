@@ -13,6 +13,7 @@ class FormContainer extends Component {
     return (
       <div>
         formContainer component
+        <Input />
       </div>
     );
   }
